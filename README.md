@@ -1,4 +1,4 @@
-# COVID-19_Review_data_and_models
+# COVID-19_Compendium_data_and_models
 This is the repository for the following paper:
 
 Claire C. Austin, Anna Widyastuti, Nada El Jundi, Rajini Nagrani; and the RDA-COVID19-WG (2020). <b> COVID-19 Surveillance data and models: Review and analysis, Part 1. </b> Version 1.0, 37 pages, September 21. Available at SSRN: https://ssrn.com/abstract=3695335
